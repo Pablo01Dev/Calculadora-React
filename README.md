@@ -1,12 +1,6 @@
 # 📌 **Calculadora React**
 Projeto de construção de uma calculadora para realizar operações simples de soma, subtração, multiplicação e divisão com React e Styled-components.
 
-<br>
-
-<img src="./public/screenshot.jpg">
-
-<br>
-
 ## 📎 Sumário
 - ⭐ Features
 - 📂 Temas abordados
@@ -39,7 +33,7 @@ Aplicar os conhecimentos aprendidos em react, utilizando a criação de componen
 <br>
 
 ## 💻 **Demonstração**
-Você pode acessar ao resultado final do projeto <a href="https://calculadora-projeto-react.netlify.app/" target="_blank">Clicando aqui</a>.
+Você pode acessar ao resultado final do projeto <a href="https://calculadora-react-cyan-one.vercel.app/" target="_blank">Clicando aqui</a>.
 
 <br>
 
